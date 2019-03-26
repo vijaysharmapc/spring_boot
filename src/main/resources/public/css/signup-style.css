@@ -1,0 +1,81 @@
+/*@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,700);*/
+
+/**{margin:0;padding:0;}*/
+
+/*body{
+  background:#567;
+  font-family:'Open Sans',sans-serif;
+}*/
+
+#location
+{
+	height: 50px;
+}
+#time_selector
+{
+	height: 50px;
+}
+#house_type
+{
+	height: 50px;
+}
+.button{
+  width:100px;
+  /*background:#3399cc;*/
+  background:#4CB648;
+  display:block;
+  margin:0 auto;
+  margin-top:1%;
+  padding:10px;
+  text-align:center;
+  text-decoration:none;
+  color:#fff;
+  cursor:pointer;
+  transition:background .3s;
+  -webkit-transition:background .3s;
+}
+
+.button:hover{
+  background:#2288bb;
+}
+
+
+
+.signup-text{
+  width:100%;
+  background:#fff;
+  margin-bottom:1%;
+  border:1px solid #ccc;
+  padding:3%;
+  font-family:'Open Sans',sans-serif;
+  font-size:95%;
+  color:#555;
+  height: 50px;
+}
+
+#book_button {
+	    
+  width:100%;
+  /*background:#3399cc;*/
+  background:#4CB648;
+  border:0;
+  padding:4%;
+  font-family:'Open Sans',sans-serif;
+  font-size:100%;
+  color:#fff;
+  cursor:pointer;
+  transition:background .3s;
+  -webkit-transition:background .3s;
+}
+
+#book_button:hover{
+  background:#2288bb;
+}
+
+#login2
+{
+	    margin-top: -60px;
+    height: 53px;
+	/*background:#3399cc;*/
+	
+}
